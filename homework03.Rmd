@@ -16,7 +16,8 @@ the number of pull requests you accepted, and the github repository from which y
 
 Team member names and their github repository links:
 - Tara Munjuluri: https://github.com/TaraMunjuluri/practice1-TaraMunjuluri.git
-- Snehal Arla: https://github.com/AditiN2003/practice1-Snehal2301.git
+- Snehal Arla: https://github.com/AditiN2003/practice1-Snehal2301.git 
+    https://github.com/Snehal2301/Graph.git
 - Aditi Nachnani: https://github.com/AditiN2003/practice1-aditin2003.git
  number of pull requests you accepted and number of successful pull requests you made: 2
  github repository to which you requested a change and the github repository from which you accepted: practice1-TaraMunjuluri and practice1-Snehal2301
@@ -55,5 +56,15 @@ ggplot(data = subset_gapMinder, aes(x = lifeExp, y = gdpPercap)) +
  3. Write a paragraph (~200 words) describing an example of what you consider data science. Write your paragraph in R Markdown. Include at least 
     a. one link to a chart or an image and 
     b. at least one itemized or enumerated list.
+    
+    One example of data science is the analysis of social media data to gain insights into consumer behavior. Social media platforms like Twitter, Facebook, and Instagram generate vast amounts of data every day. With the help of data science techniques, this data can be processed and analyzed to provide valuable insights. For instance, a company may want to analyze how its brand is perceived on social media or which types of content are most popular among its target audience.
 
+As an example, consider the following chart: https://www.statista.com/statistics/203513/usage-trands-of-social-media-platforms-in-marketing/
 
+Some steps involved in data science include:
+
+    - Data collection: Gathering data from various sources such as APIs, databases, or web scraping.
+    - Data cleaning and preprocessing: Processing and cleaning data to remove noise, inconsistencies, and errors.
+    - Exploratory data analysis: Conducting statistical analyses, visualization, and data exploration to identify patterns and relationships in the data.
+    - Building and evaluating models: Creating models to make predictions and evaluating their performance using statistical measures.
+    - Communicating insights: Presenting the results of data analysis using visualization, reports, and presentations to stakeholders.
